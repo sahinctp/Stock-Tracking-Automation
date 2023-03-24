@@ -1,2 +1,2 @@
-# Stok-Takip
-Solid Prensipleri ve katmanlı mimari yaklaşımı ile ürün ve kategori yönetiminin temel Crud işlemleri ile yapıldığı Windows masaüstü uygulaması
+# Stock-Tracking-Automation
+Windows desktop application where product and category management is done with basic Crud operations with Solid Principles and layered architecture approach
